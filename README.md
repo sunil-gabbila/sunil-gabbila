@@ -27,7 +27,7 @@ and building real-world applications.
 - Continuously improve coding and problem-solving skills
 
 ### 📫 Connect With Me
-- LinkedIn: https://github.com/sunilgabbila
+- LinkedIn: https://www.linkedin.com/in/sunil-gabbila2003
 - GitHub: https://github.com/sunilgabbila
 
 ---
