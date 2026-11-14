@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sunil Gabbila 👋
 
-<!--
-**sunil-gabbila/sunil-gabbila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Java Developer
 
-Here are some ideas to get you started:
+I'm passionate about software development, problem-solving,
+and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Programming: Java, JavaScript
+- Backend: Spring Boot, Hibernate, REST APIs
+- Frontend: React.js, HTML, CSS
+- Database: MySQL
+- Tools: Git, GitHub, Maven
+
+### 🚀 Projects
+- Sales Savvy – Full-Stack E-commerce Application
+
+### 📚 Currently Learning
+- Advanced Java
+- Spring Boot
+- Data Structures & Algorithms
+- Full-Stack Development
+
+### 🎯 Career Goals
+- Become a skilled Software Engineer
+- Build scalable real-world applications
+- Continuously improve coding and problem-solving skills
+
+### 📫 Connect With Me
+- LinkedIn: https://github.com/sunilgabbila
+- GitHub: https://github.com/sunilgabbila
+
+---
+⭐ Thanks for visiting my profile!
