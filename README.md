@@ -14,6 +14,7 @@ and building real-world applications.
 
 ### 🚀 Projects
 - Sales Savvy – Full-Stack E-commerce Application
+- Stockwise - Product management system. 
 
 ### 📚 Currently Learning
 - Advanced Java
