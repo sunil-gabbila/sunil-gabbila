@@ -14,7 +14,8 @@ and building real-world applications.
 
 ### 🚀 Projects
 - Sales Savvy – Full-Stack E-commerce Application
-- Stockwise - Product management system. 
+- Stockwise - Product management system.
+- Fixflow - complaint management
 
 ### 📚 Currently Learning
 - Advanced Java
